@@ -1,3 +1,3 @@
-# BuxoroITS_2.0
-# Buxoro ilmiy-tadqiqot stansiyasi# quqon
+# Qo'qonITS
+# Qo'qon ilmiy-tadqiqot stansiyasi
 # quqonits
